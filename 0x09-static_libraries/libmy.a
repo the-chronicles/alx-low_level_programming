@@ -1,4 +1,5 @@
 #!/bin/bash
+#include "main.h"
 gcc -c _putchar.c -o 0-putchar.o
 gcc -c _islower.c -o 3-islower.o
 gcc -c _isalpha.c -o 3-isalpha.o
